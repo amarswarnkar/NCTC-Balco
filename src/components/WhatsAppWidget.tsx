@@ -4,7 +4,7 @@
 export default function WhatsAppWidget() {
   return (
     <a
-      href="https://wa.me/917898527785"
+      href="https://wa.me/917898552785"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-4 right-4 z-50 bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg transition-all"
