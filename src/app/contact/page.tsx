@@ -5,7 +5,7 @@ export default function ContactPage() {
       <section className="text-center">
         <h1 className="text-4xl font-bold mb-4">Get in Touch</h1>
         <p className="text-lg max-w-xl mx-auto">
-          We'd love to hear from you! Reach out for admission inquiries, doubt sessions, or parent-teacher meetings.
+          We would love to hear from you! Reach out for admission inquiries, doubt sessions, or parent-teacher meetings.
         </p>
       </section>
 
@@ -31,7 +31,7 @@ export default function ContactPage() {
         </div>
 
         {/* Google Map with Label */}
-        <section className="space-y-2 text-center rounded-lg overflow-hidden shadow-glass">
+        <div className="space-y-2 text-center rounded-lg overflow-hidden shadow-glass">
           <h2 className="text-xl font-semibold">Visit Our Center</h2>
           <p>
             <strong>New Coaching and Tuition Center</strong><br />
@@ -48,7 +48,7 @@ export default function ContactPage() {
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
           />
-        </section>
+        </div>
       </section>
     </main>
   );
