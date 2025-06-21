@@ -20,7 +20,7 @@ export default function ContactPage() {
           <p>
             <strong>💬 WhatsApp:</strong>{' '}
             <a
-              href="https://wa.me/917898527785"
+              href="https://wa.me/917898552785"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-200 underline"

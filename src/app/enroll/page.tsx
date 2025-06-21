@@ -55,7 +55,7 @@ export default function EnrollPage() {
         noValidate
       >
         <input type="hidden" name="_captcha" value="false" />
-        <input type="hidden" name="_next" value="http://localhost:3000/thankyou" />
+        <input type="hidden" name="_next" value="https://nctc-balco-4el1.vercel.app/thankyou" />
 
         <div>
           <input
